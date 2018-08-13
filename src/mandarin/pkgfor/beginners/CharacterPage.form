@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JInternalFrame" name="jInternalFrame1">
+          <Properties>
+            <Property name="visible" type="boolean" value="true"/>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="GeBtn" min="-2" max="-2" attributes="0"/>
+                              <Component id="AiBtn" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="HuanBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="PiaoBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ShiBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="TongBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="YiBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ZaoBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="BuBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="GuoBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="LiangBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="QiuBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="TaHeBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="WanBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Yong" min="-2" max="-2" attributes="0"/>
+                          <Component id="ZhongBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="CanBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="HaoBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="MaBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="RenBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="TaItBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="WoBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="You1Btn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ZaiBtn" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="NiBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="You2Btn" min="-2" max="-2" attributes="0"/>
+                          <Component id="XiBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="TaSheBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="ShangBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="MeiBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="HenBtn" min="-2" max="-2" attributes="0"/>
+                          <Component id="DeBtn" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="92" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="MenuBtn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="CanvasBtn" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="MenuBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CanvasBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="AiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="BuBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CanBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="DeBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="GeBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="GuoBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="HaoBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="HenBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="HuanBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="LiangBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="MaBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="MeiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="PiaoBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="QiuBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="RenBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ShangBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ShiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TaHeBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TaItBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TaSheBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="TongBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="WanBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="WoBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="XiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="YiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="You1Btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Yong" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="You2Btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ZaoBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ZhongBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ZaiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="NiBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="AiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ai"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="AiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="BuBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Bu"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BuBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="DeBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="De"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="DeBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="CanBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Can"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CanBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="GeBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ge"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GeBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="GuoBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Guo"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GuoBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="HenBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Hen"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="HenBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="HaoBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Hao"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="HaoBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="HuanBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Huan"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="HuanBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="LiangBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Liang"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LiangBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="MaBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ma"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MaBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="MeiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Mei"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MeiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="PiaoBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Piao"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PiaoBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="QiuBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Qiu"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QiuBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="RenBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ren"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RenBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="ShangBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Shang"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ShangBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="ShiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Shi"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ShiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="TaHeBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ta(he)"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TaHeBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="TaItBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ta(it)"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TaItBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="TaSheBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ta(she)"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TaSheBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="WanBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Wan"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="WanBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="TongBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Tong"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TongBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="WoBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Wo"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="WoBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="XiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Xi"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="XiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="YiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Yi"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="YiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="You1Btn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="You1"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="You1BtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="Yong">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Yong"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="YongActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="You2Btn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="You2"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="You2BtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="ZaoBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Zao"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ZaoBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="ZhongBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Zhong"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ZhongBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="ZaiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Zai"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ZaiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="NiBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Ni"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NiBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="MenuBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="MainMenu"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MenuBtnActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="CanvasBtn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="TryItYourself"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CanvasBtnActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
