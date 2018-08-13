@@ -65,5 +65,5 @@ public class CharacterCanvas extends JComponent{
     }
     public void black(){
         g.setPaint(Color.black);
-    }
+    } //9
 }

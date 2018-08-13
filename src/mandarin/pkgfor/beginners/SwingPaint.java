@@ -36,7 +36,7 @@ public class SwingPaint {
     content.setLayout(new BorderLayout());
     // create draw area
     drawArea = new CharacterCanvas();
- 
+ //9
     // add to content pane
     content.add(drawArea, BorderLayout.CENTER);
  

@@ -165,7 +165,7 @@ public class PinyinPage extends javax.swing.JFrame {
     private void LiuBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LiuBtnActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_LiuBtnActionPerformed
-
+ //9
     /**
      * @param args the command line arguments
      */

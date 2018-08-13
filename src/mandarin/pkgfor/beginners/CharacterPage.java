@@ -643,3 +643,4 @@ public class CharacterPage extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     // End of variables declaration//GEN-END:variables
 }
+//9

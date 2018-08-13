@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 import javax.swing.ImageIcon;
 
 public class AiGif extends JFrame {
-    JPanel contentPane;
+    JPanel contentPane; //9
     JLabel imageLabel = new JLabel();
     JLabel headerLabel = new JLabel();
 
